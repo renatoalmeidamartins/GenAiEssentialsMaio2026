@@ -28,3 +28,5 @@
 - [Prompts avaliadores no bedrock evaluations](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-eval-prompt.html)
 - [IA Responsavel na AWS](https://aws.amazon.com/ai/responsible-ai/)
 - [Prompt routing no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
+- [LLM top 10 no OWASP](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
+- [Mitiganto o top 10 de LLM na AWS](https://www.youtube.com/watch?v=ewxCqXYoz4A)
