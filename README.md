@@ -30,3 +30,11 @@
 - [Prompt routing no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
 - [LLM top 10 no OWASP](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
 - [Mitiganto o top 10 de LLM na AWS](https://www.youtube.com/watch?v=ewxCqXYoz4A)
+- [Exemplo de ferramenta automatizada para jailbreak de modelos](https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click)
+- [Conformance packs no Config](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
+- [Repositorio com system pormpts de diversos modelos](https://github.com/asgeirtj/system_prompts_leaks)
+- Discussoes sobre vulnerabilidades em robos que usam LLM:
+  - [Wired](https://www.wired.com/story/researchers-llm-ai-robot-violence/)
+  - [Artigo cientifico](https://link.springer.com/article/10.1007/s12369-025-01301-x)
+  - [Pesquisa 2](https://cetas.turing.ac.uk/publications/ai-and-robotics)
+  - 
