@@ -37,4 +37,5 @@
   - [Wired](https://www.wired.com/story/researchers-llm-ai-robot-violence/)
   - [Artigo cientifico](https://link.springer.com/article/10.1007/s12369-025-01301-x)
   - [Pesquisa 2](https://cetas.turing.ac.uk/publications/ai-and-robotics)
-  - 
+- [](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
+
