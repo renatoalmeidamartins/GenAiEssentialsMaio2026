@@ -10,3 +10,4 @@
 - [Arquiteura transformer](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Zoológico das redes neurais](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Definindo escopo de segurança em aplicações GenAI](https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/)
+- [Lista de algoritmos embarcados no Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
