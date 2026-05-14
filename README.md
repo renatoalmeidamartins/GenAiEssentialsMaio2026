@@ -7,3 +7,6 @@
 - [Link pro webex do curso](https://awsvirtual.webex.com/awsvirtual/j.php?MTID=m6e86d481c626229e68b881be59208ca6)
 ## Links de conteúdo do curso
 - [Sagemaker Studiolab](https://studiolab.sagemaker.aws/)
+- [Arquiteura transformer](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+- [Zoológico das redes neurais](https://www.asimovinstitute.org/neural-network-zoo/)
+- [Definindo escopo de segurança em aplicações GenAI](https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/)
