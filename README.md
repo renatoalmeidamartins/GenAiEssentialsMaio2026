@@ -37,5 +37,7 @@
   - [Wired](https://www.wired.com/story/researchers-llm-ai-robot-violence/)
   - [Artigo cientifico](https://link.springer.com/article/10.1007/s12369-025-01301-x)
   - [Pesquisa 2](https://cetas.turing.ac.uk/publications/ai-and-robotics)
-- [](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
-
+- [Medindo impacto do github copilot na produitividade, publicado na Communications of the ACM](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
+- [Model monitor, para acompanhar "degradacao"  de modelos ML puros](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
+- [Augmented AI ](https://aws.amazon.com/augmented-ai/)
+- [Stable diffusion, pioneiro na geracao de imagens](https://ommer-lab.com/research/latent-diffusion-models/)
