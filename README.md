@@ -18,3 +18,8 @@
 - [Lex, serviço para criaçào de chatbots](https://aws.amazon.com/lex/)
 - [Chainlit, framework open source para criação rapida de chatbots](https://chainlit.io/)
 - [Lei de inteligencia artificial da união europeia](https://artificialintelligenceact.eu/)
+- [Design de prompt na documentacao do Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
+- [Conceitos avancados de engenharia de prompt](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+- [RAG - Retrieval augmented generation](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+- [Guia de prompt engineering](https://www.promptingguide.ai/)
+- [Prompt engineering na AWS](https://aws.amazon.com/what-is/prompt-engineering/)
