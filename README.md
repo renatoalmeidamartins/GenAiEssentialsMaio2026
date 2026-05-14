@@ -17,3 +17,4 @@
 - [Quick, a evolução do Q Business](https://aws.amazon.com/quick/)
 - [Lex, serviço para criaçào de chatbots](https://aws.amazon.com/lex/)
 - [Chainlit, framework open source para criação rapida de chatbots](https://chainlit.io/)
+- [Lei de inteligencia artificial da união europeia](https://artificialintelligenceact.eu/)
