@@ -11,3 +11,4 @@
 - [Zoológico das redes neurais](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Definindo escopo de segurança em aplicações GenAI](https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/)
 - [Lista de algoritmos embarcados no Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+- [Data exchange, marketplace de dados](https://aws.amazon.com/marketplace/search/results?ref_=adx_hp_hr_brw&trk=adx_hp_hr_brw&category=d5a43d97-558f-4be7-8543-cce265fe6d9d&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&filters=FULFILLMENT_OPTION_TYPE)
