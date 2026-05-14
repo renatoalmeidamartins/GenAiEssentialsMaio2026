@@ -8,6 +8,8 @@
 - Skillbuilder, portal gigantesco com cursos, laboratórios, simulados de exame. A maior parte gratuita, alguns exigem pagamento de assinatura mensal (29 USD/mes): [https://skillbuilder.aws/](https://skillbuilder.aws/)
 - [Acesso ao laboratório](https://us-east-1.student.classrooms.aws.training/class/ilt%234LEiDMKfrrmqwRLaYLSfqM)
 - [Link pro webex do curso](https://awsvirtual.webex.com/awsvirtual/j.php?MTID=m6e86d481c626229e68b881be59208ca6)
+- [Lista de cursos por categoria ](https://aws.amazon.com/training/classroom/)
+- [Estrutura com versões dos vários cursos e suas atualizações](https://releases.awstc.com/)
 ## Links de conteúdo do curso
 - [Sagemaker Studiolab](https://studiolab.sagemaker.aws/)
 - [Arquiteura transformer](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
