@@ -26,4 +26,5 @@
 - [Avalia'c~ao de foundation models](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-foundation-model-evaluate-whatis.html)
 - [Imparcialidade, explicabilidade do modelo e analise de vies com sagemaker clarify](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-configure-processing-jobs.html)
 - [Prompts avaliadores no bedrock evaluations](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-eval-prompt.html)
-- [](https://aws.amazon.com/ai/responsible-ai/)
+- [IA Responsavel na AWS](https://aws.amazon.com/ai/responsible-ai/)
+- [Prompt routing no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
