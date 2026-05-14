@@ -6,3 +6,4 @@
 - [Acesso ao laboratório](https://us-east-1.student.classrooms.aws.training/class/ilt%234LEiDMKfrrmqwRLaYLSfqM)
 - [Link pro webex do curso](https://awsvirtual.webex.com/awsvirtual/j.php?MTID=m6e86d481c626229e68b881be59208ca6)
 ## Links de conteúdo do curso
+- [Sagemaker Studiolab](https://studiolab.sagemaker.aws/)
